@@ -1,0 +1,40 @@
+td{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+table{
+    border: solid black thin;
+}
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+#mezera{
+    width: 50px;
+}
+#mezera2{
+    width: 500px;
+}
+#counter{
+    margin-top: 10px;
+    text-align: center;
+    border: solid black thin;
+    height: 40px;
+    font-size: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.pole2{
+    background-color: non;
+}
+body{
+    background-image: url(../img/pozadi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
